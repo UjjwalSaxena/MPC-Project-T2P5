@@ -1,0 +1,3 @@
+/mnt/d/PID-Control-Project-T2P4/CMakeFiles/edit_cache.dir
+/mnt/d/PID-Control-Project-T2P4/CMakeFiles/rebuild_cache.dir
+/mnt/d/PID-Control-Project-T2P4/CMakeFiles/pid.dir
