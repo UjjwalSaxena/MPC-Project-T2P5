@@ -9,7 +9,6 @@ cd build
 cmake ..
 make 
 sudo make install
-cd ..
-cd ..
+cd ../..
 sudo ln -s /usr/lib64/libuWS.so /usr/lib/libuWS.so
 sudo rm -r uWebSockets
