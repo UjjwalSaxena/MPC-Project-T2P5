@@ -96,7 +96,7 @@ int main() {
           double v = j[1]["speed"];
           double steer_value = j[1]["steering_angle"];
           double throttle_value = j[1]["throttle"];
-          double dt = 0.15; // timestep
+          double dt = 0.1; // timestep
           const double Lf = 2.67; 
           const coeff_miles_per_hour_to_m_per_sec=0.44704;
 
