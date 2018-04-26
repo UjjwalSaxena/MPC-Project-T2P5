@@ -65,7 +65,8 @@ Error costs are the penalty numeric values given to the difference in the actual
       
 a,b,c,d,e,f and g are the constant weights here. These are used to reduce or increase the direct dependency of the cost on the square of the error.
 I have taken these values to be:
-**a:20
+
+**a:20**
 
 **b:20**
 
