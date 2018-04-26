@@ -10,7 +10,7 @@ typedef CPPAD_TESTVECTOR(double) Dvector;
 using namespace std;
 
 const size_t N = 13;
-const double dt = 0.15;
+const double dt = 0.1;
 const size_t n_vars = N*6+(N-1)*2;
 const size_t n_constraints = N*6;
 const double Lf = 2.67;
