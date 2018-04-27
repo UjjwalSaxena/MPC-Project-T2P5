@@ -98,7 +98,7 @@ int main() {
           double throttle_value = j[1]["throttle"];
           double dt = 0.1; // timestep
           const double Lf = 2.67; 
-          const coeff_miles_per_hour_to_m_per_sec=0.44704;
+          const double coeff_miles_per_hour_to_m_per_sec=0.44704;
 
 
 
